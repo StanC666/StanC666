@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+A boring existence who knows stuff but doesn't know what to do in his life...
 
 - 🔭 I’m currently working on ... See my repos
 - 🌱 I’m currently learning ... C/C++
